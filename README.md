@@ -12,8 +12,6 @@
 
 <h4>📚 Education (In Progress): Barrett, The Honors College - Arizona State University - B.S. Computer Science - 2024<h4>
 
-<h3 align="center">A passionate frontend developer from India</h3>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
