@@ -75,5 +75,5 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=figoferas1&langs_count=8&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide=jupyter%20notebook,shell,m4,scss,perl,roff,ruby" alt="figoferas1"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=figoferas1&langs_count=10&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide=jupyter%20notebook,shell,m4,perl,roff,ruby" alt="figoferas1"/>
 </p>
